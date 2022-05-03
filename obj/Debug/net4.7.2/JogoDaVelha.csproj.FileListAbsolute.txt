@@ -1,0 +1,8 @@
+C:\Users\marci\JogoDaVelha\bin\Debug\net4.7.2\JogoDaVelha.exe.config
+C:\Users\marci\JogoDaVelha\bin\Debug\net4.7.2\JogoDaVelha.exe
+C:\Users\marci\JogoDaVelha\bin\Debug\net4.7.2\JogoDaVelha.pdb
+C:\Users\marci\JogoDaVelha\obj\Debug\net4.7.2\JogoDaVelha.csproj.AssemblyReference.cache
+C:\Users\marci\JogoDaVelha\obj\Debug\net4.7.2\JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\JogoDaVelha\obj\Debug\net4.7.2\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\marci\JogoDaVelha\obj\Debug\net4.7.2\JogoDaVelha.exe
+C:\Users\marci\JogoDaVelha\obj\Debug\net4.7.2\JogoDaVelha.pdb
